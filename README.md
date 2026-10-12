@@ -1,5 +1,6 @@
 # Windows Security & Administration Cheat Sheet
 
+
 A collection of Windows commands for system administration, security auditing, and incident response.
 
 ## Categories
