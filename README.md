@@ -37,3 +37,22 @@ I had to learn the hard way. Please be careful.
 - **S4NTRX**
 - Course: BSc Computer Science  CT201
 - Submission Date: 25-09-2026
+<!-- Contact Icons -->
+<div class="contact-icons">
+  <!-- Email Icon -->
+  <a href="mailto:Tyler@greyfinrenovations.com"
+     aria-label="Send Email"
+     title="Send Email">
+    <svg xmlns="http://www.w3.org/2000/svg"
+         width="28" height="28"
+         viewBox="0 0 24 24"
+         fill="none" stroke="currentColor"
+         stroke-width="2"
+         stroke-linecap="round"
+         stroke-linejoin="round">
+      <rect x="2" y="4" width="20" height="16" rx="2"/>
+      <path d="m22 7-10 6L2 7"/>
+    </svg>
+  </a>
+  <!-- Phone Icon -->
+  <a href="tel:+19803588463"
